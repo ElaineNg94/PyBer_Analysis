@@ -1,12 +1,14 @@
 # PyBer_Analysis
 ## Overview of the analysis:
 
-The purpose of this analysis was to help Omar and create visualizations of rideshare data to help improve ride-sharing services and determine the affordability for lower income neighborhoods. The rideshare data is supposed to show the different data among different city types, like the total rides, total drivers, total fares, average fare per ride and driver, and the total fare by city type. I was told to use matplotlib, instead of Excel I used matplotlib because using matplotlib would impress the CEO, V. Isualize more to make a graph and tables as our data visualizations.
+The purpose of this analysis was to help Omar and create visualizations of rideshare data to help improve ride-sharing services and determine the affordability for lower income neighborhoods. The rideshare data is supposed to show the different data among different city types, like the total rides, total drivers, total fares, average fare per ride and driver, and the total fare by city type. I was told to use matplotlib, instead of Excel, I used matplotlib because using matplotlib would impress the CEO, V. Isualize more to make a graph and tables as our data visualizations.
 
 ## Results:
 
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
+<img width="447" alt="Total Rides   Fares" src="https://user-images.githubusercontent.com/79742633/115177191-8eb02300-a083-11eb-9169-79ebe3aee715.png">
+
 Among the different city types, the ridesharing data differs by the amount of drivers each city type has, the cost of using the rideshare services per ride, and amount of people needing rides depending on city type.
+
 Total rides: 
 The total rides in rural cities were 125, total rides in suburban cities was 625, and the total rides in urban cities was 1,625.
 
@@ -29,3 +31,5 @@ The overall total fares by city type shows that urban cities made the most, whil
 ## Summary:
 
 From looking at the data tables, there are a few recommendations I would make. The first recommendation would be for the CEO to decrease the average fare for rural cities so that more riders can afford it. The average fare per ride in the rural cities is over thirty-four dollars, while the cities with a lower average fare have a lot more rides. If more riders could afford these rideshare trips, then that would make it more appealing to them and increase the money earned. Another recommendation I would make is to encourage the CEO to hire more drivers for the rural cities. The  rural cities only have 18 drivers, while the urban cities have 1625 drivers so that could be why urban cities are able to make more money. If they had more drivers, then the amount of people needing a ride could increase in rural cities. The third recommendation I would make is to charge more fares based on how many drivers they have at a given time. For example, the month of January seems to have the lowest fares earned. January has a big holiday at the beginning of the month that many people celebrate and would need a ride for, but the fares earned that month was still low compared to other months. This would cause there to be less drivers available, so during these times with big holidays, the company should charge more to earn more for the company.
+
+<img width="719" alt="PyBer_fare_summary" src="https://user-images.githubusercontent.com/79742633/115177151-76d89f00-a083-11eb-818b-da1b722b0376.png">
