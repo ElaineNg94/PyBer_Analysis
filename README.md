@@ -9,7 +9,7 @@ The purpose of this analysis was to help Omar and create visualizations of rides
 
 Among the different city types, the ridesharing data differs by the amount of drivers each city type has, the cost of using the rideshare services per ride, and amount of people needing rides depending on city type.
 
-Total rides: 
+**Total rides:**
 The total rides in rural cities were 125, total rides in suburban cities was 625, and the total rides in urban cities was 1,625.
 
 **Total drivers:**
