@@ -1,7 +1,7 @@
 # PyBer_Analysis
 ## Overview of the analysis:
 
-The purpose of this analysis was to help Omar and create visualizations of rideshare data to help improve ride-sharing services and determine the affordability for lower income neighborhoods. The rideshare data is supposed to show the different data among different city types, like the total rides, total drivers, total fares, average fare per ride and driver, and the total fare by city type. I was told to use matplotlib, instead of Excel, I used matplotlib because using matplotlib would impress the CEO, V. Isualize more to make a graph and tables as our data visualizations.
+The purpose of this analysis was to help Omar and create visualizations of rideshare data to help improve ride-sharing services and determine the affordability for lower income neighborhoods. The rideshare data is supposed to show the different data among different city types, like the total rides, total drivers, total fares, average fare per ride and driver, and the total fare by city type. I was told to use matplotlib, instead of Excel so I used matplotlib for this visualization. Using matplotlib would impress the CEO, V. Isualize more by making a graph and tables as our data visualizations, which making this would help Omar analyze this data too.
 
 ## Results:
 
@@ -10,6 +10,7 @@ The purpose of this analysis was to help Omar and create visualizations of rides
 Among the different city types, the ridesharing data differs by the amount of drivers each city type has, the cost of using the rideshare services per ride, and amount of people needing rides depending on city type.
 
 **Total rides:**
+
 The total rides in rural cities were 125, total rides in suburban cities was 625, and the total rides in urban cities was 1,625.
 
 **Total drivers:**
