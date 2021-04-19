@@ -11,19 +11,19 @@ Among the different city types shown in the table above, the ridesharing data di
 
 **Total rides:**
 
-The total rides in rural cities were 125, total rides in suburban cities was 625, and the total rides in urban cities was 1,625.
+The total rides in rural cities were 125, total rides in suburban cities was 625, and the total rides in urban cities was 1,625. Rural cities had the least amount of rides, while urban cities made the most amount of rides.
 
 **Total drivers:**
 
-The total drivers in rural cities were 78, total drivers in suburban cities was 490, and the total drivers in urban cities was 2,405.
+The total drivers in rural cities were 78, total drivers in suburban cities was 490, and the total drivers in urban cities was 2,405. Rural cities had the least amount of drivers, while urban cities had the most amount of drivers.
 
 **Total fares:**
 
-The total fares earned in rural cities were $4,327.93, total fares earned in suburban cities was $19,356.33, and the total fares earned in urban cities was $39,854.38.
+The total fares earned in rural cities were $4,327.93, total fares earned in suburban cities was $19,356.33, and the total fares earned in urban cities was $39,854.38. Rural cities earned the least amount of fares, while urban cities made the most.
 
 **Average fare per ride and driver:**
 
-The average fare per ride in rural cities was $34.62, while the average fare per driver in rural cities was $55.49. The average fare per ride in suburban cities was $30.97, while the average fare per driver was in suburban cities was $39.50. The average fare per ride in urban cities was $24.53, while the average fare per driver was $16.57.
+The average fare per ride in rural cities was $34.62, while the average fare per driver in rural cities was $55.49. The average fare per ride in suburban cities was $30.97, while the average fare per driver was in suburban cities was $39.50. The average fare per ride in urban cities was $24.53, while the average fare per driver was $16.57. According to this data, the average fare per ride and driver in rural cities was the most. 
 
 **Total fare by city type:**
 
