@@ -7,7 +7,7 @@ The purpose of this analysis was to help Omar and create visualizations of rides
 
 <img width="671" alt="Total Rides   Fares" src="https://user-images.githubusercontent.com/79742633/115177427-11d17900-a084-11eb-8f42-9f7e9ebb8423.png">
 
-Among the different city types, the ridesharing data differs by the amount of drivers each city type has, the cost of using the rideshare services per ride, and amount of people needing rides depending on city type.
+Among the different city types shown in the table above, the ridesharing data differs by the amount of drivers each city type has, the cost of using the rideshare services per ride, and amount of people needing rides depending on city type.
 
 **Total rides:**
 
